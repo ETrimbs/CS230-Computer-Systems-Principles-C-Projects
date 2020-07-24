@@ -1,0 +1,9 @@
+Project Profile
+The goal of this project is to complete the implementation of a program 
+that performs a simple glossary analysis. In particular, the program extracts 
+“words” from a text file and prints to the console a mapping of the words found 
+in the provided text file and their associated frequencies. You can download a 
+bunch of example book text files to help with your implementation. For example, 
+a working implementation will produce the following output (assuming your 
+compiled program is called wordfreak) given a sequence of text files from the 
+command line:

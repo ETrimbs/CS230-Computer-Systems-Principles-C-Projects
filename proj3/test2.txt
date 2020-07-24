@@ -1,0 +1,17 @@
+Submission
+You must submit the following to Gradescope by the assigned due date:
+
+Makefile - the build file to use with the make program.
+Source Files - source and header files that provide the interface and 
+implementation of the solution to this project.
+README.txt - this is a text file containing an overview/description of 
+your submission highlighting the important parts of your implementation. 
+You should also explain where in your implementation your code satisfies 
+each of the requirements of the project or any requirements that you did not 
+satisfy. The goal should make it easy and obvious for the person grading your 
+submission to find the important rubric items. This text file should also clearly 
+include a URL to your video for us to review. The video should not exceed 2 minutes 
+in length and must provide a recorded voice to guide the viewer. 
+
+You must use the VM environment to write your code. Make sure you submit 
+this project to the correct assignment on Gradescope!

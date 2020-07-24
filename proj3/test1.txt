@@ -1,0 +1,43 @@
+Grading Breakdown
+Project Requirements (40 points)
+Includes a Makefile that compiles your submitted code.
+Compiles a program that will accept 0 to n command line arguments. If your program 
+receives 0 command line arguments it will read from standard input (using the bash pipe 
+operator) for analysis. If your program receives 1 to n command line arguments it will 
+open the provided files for analysis.
+Compiles a program that will use a specified WORD_FREAK environment variable to 
+parse and analyze a text file and produce the proper output.  
+Uses dynamic allocation and freeing (e.g., malloc(), free()).
+Uses structs and typedef.
+Uses pointers.
+Uses only system calls for I/O.
+Aligns output using only system calls for I/O.
+Provides error checking for all system and library calls.
+Design and Implementation (30 points)
+Includes both C source files and header files. You can decide how best to organize 
+your code and determine how many source and header files you require.
+Functions are declared and used properly.
+Data structures and data types are declared and used properly.
+Variable and function naming is clear and help with understanding the purpose of the program.
+Global variables are minimized, declared, and used properly.
+Control flow (e.g., if statements, looping constructs, function calls) are used properly.
+Algorithms are clearly constructed and are efficient. For example, there is no extra 
+looping, unreachable code, confusing or misleading constructions, and missing or incomplete cases.
+Coding Style (5 points)
+Code is written in a consistent style. For example, curly brace placement is the same 
+across all if/then/else and looping constructors.
+Proper and consistent indenting is adhered to across the entire implementation.
+Proper spacing is used making the code understandable and readable.
+Comments (5 points)
+Comments in the code are used to document algorithms.
+Variables are documented such that they aid the reader in understanding your code.
+Functions are documented to indicate the purpose of the parameters and return values.
+Video (14 points)
+The video shows the code being compiled from the command line.
+The video shows the code being executed and satisfying the output requirements.
+README.txt (5 points)
+The README.txt file is well written.
+The README.txt file provides an overview of your implementation.
+The README.txt file explains how your code satisfies each of the requirements. 
+GradeScope Submission (1 point)
+You automatically get a point for submitting to gradescope.
